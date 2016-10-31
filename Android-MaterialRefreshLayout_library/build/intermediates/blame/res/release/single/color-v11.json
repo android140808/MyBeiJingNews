@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\workspaces\\AS1015\\MyBeiJingNews\\Android-MaterialRefreshLayout_library\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\workspaces\\AS1015\\MyBeiJingNews\\Android-MaterialRefreshLayout_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\workspaces\\AS1015\\MyBeiJingNews\\Android-MaterialRefreshLayout_library\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\workspaces\\AS1015\\MyBeiJingNews\\Android-MaterialRefreshLayout_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]
